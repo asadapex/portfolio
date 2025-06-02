@@ -199,7 +199,7 @@ footer {
   gap: 20px;
 }
 
-@media (min-width: 390px) {
+@media (max-width: 390px) {
   .links {
     display: none;
   }
