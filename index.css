@@ -210,7 +210,7 @@ footer {
 
   .h1s {
     justify-content: center;
-    align-items: center;
+    text-align: center;
   }
 
   .text-items {
@@ -224,7 +224,9 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 20px;
+    text-align: center;
+    margin-left: 0 auto;
+    width: 100%;
   }
 
   .header-img {
