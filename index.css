@@ -261,4 +261,43 @@ footer {
     align-items: center;
     width: 100%;
   }
+
+  .cards1 {
+    width: 100%;
+  }
+
+  .card1 {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    align-items: start;
+  }
+
+  .card1 p {
+    width: 150%;
+  }
+
+  .card1 h2 {
+    width: 150%;
+  }
+
+  .card1 img {
+    width: 100%;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .icons {
+    font-size: 30px;
+  }
+
+  footer {
+    margin-top: 10px;
+  }
+
+  .footer p {
+    font-size: 14px;
+  }
 }
